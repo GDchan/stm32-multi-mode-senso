@@ -26,7 +26,7 @@
 
 开发板：野火 STM32F103C8T6 核心板
 
-![接线图][docs/wiring.png]
+![接线图](docs/wiring.png)
 
 ## 开发环境
 
